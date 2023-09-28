@@ -1,0 +1,13 @@
+{
+  "doc": "Uma breve descrição.",
+  "fields": [
+    {
+      "doc": "The string is a unicode character sequence.",
+      "name": "name",
+      "type": "string"
+    }
+  ],
+  "name": "DemoAvroDTO",
+  "namespace": "br.com.adriano.dto",
+  "type": "record"
+}
